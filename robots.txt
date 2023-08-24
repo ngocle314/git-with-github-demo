@@ -9,3 +9,5 @@ Disallow:
 # some line
 
 # My own add to test pull command
+# Some text to test the push command
+
